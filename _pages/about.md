@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>136A Department of Ecology, Evolution, & Natural Resources</p>
-    <p>Rutgers, 14 College Farm Road</p>
+    <p>Room 136A, Department of Ecology, Evolution, & Natural Resources</p>
+    <p>Rutgers, The State University of NJ, 14 College Farm Road</p>
     <p>New Brunswick, NJ 08901 USA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
