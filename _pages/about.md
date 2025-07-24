@@ -29,11 +29,11 @@ latest_posts:
 
 Hi. My name is Jeewantha Bandara (If you want the full monty, it's _Rathnayaka Mudiyanselage Wajra Jeewantha Bandara_. Quite a handful, I must say). I'm currently a 4th year PhD candidate at Rutgers University. My research interests are in marine biogeography and fisheries management under the larger topic of climate change. I'm supervised by [John Wiedenmann](https://deenr.rutgers.edu/personnel/faculty/john-wiedenmann) and [Malin Pinsky](https://globalchange.sites.ucsc.edu/people/malin-pinsky/).
 
-I'm originally from Sri Lanka and completed my undergraduate degree in Zoology at the University of Colombo. I worked in sustainable fisheries in my homeland for three years where I was a part of a team that helped establish a [sustainable blue crab fishery](https://www.seafoodwatch.org/globalassets/sfw-data-blocks/reports/c/seafood-watch-blue-swimming-crab-sri-lanka-28177.pdf) in the Northwestern parts of the island.
+I'm originally from Sri Lanka and completed my undergraduate degree in Zoology at the University of Colombo. I worked in sustainable fisheries in my homeland for three years where I was a part of a team that helped establish a [sustainable blue crab fishery](https://www.seafoodwatch.org/globalassets/sfw-data-blocks/reports/c/seafood-watch-blue-swimming-crab-sri-lanka-28177.pdf) in the Northwestern parts of the island. I then came to the United States for my graduate studies after receiving a [Fulbright Scholarship](https://fulbrightsrilanka.org/).
 
-My interests outside of academia include reading history, diving into 70s and 80s cinema, and going on hikes with my wife and baby. I also find any excuse to overcomplicate the art of making coffee by getting into shenanigans with different brewing methods.
+My interests outside of academia include reading about ancient history, diving into 70s and 80s cinema, and going on hikes with my wife and baby. I also find any excuse to overcomplicate the art of making coffee by getting into shenanigans with different brewing methods.
 
-You can check out my publications on [Google Scholar](https://scholar.google.com/citations?user=c-SwfQYAAAAJ&hl=en) and you can reach me at jeewantha.bandara@rutgers.edu. Have a good one!
+You can check out my publications on [Google Scholar](https://scholar.google.com/citations?user=c-SwfQYAAAAJ&hl=en) and you can reach me at jeewantha.bandara@rutgers.edu. Cheers!
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
