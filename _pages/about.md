@@ -8,11 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Room 136A, DEENR</p>
-    <p>Rutgers, 14 College Farm Road</p>
-    <p>New Brunswick, NJ 08901 USA</p>
-
+  
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -37,7 +33,7 @@ My interests outside of academia include reading about ancient history, diving i
 
 You can check out my publications on [Google Scholar](https://scholar.google.com/citations?user=c-SwfQYAAAAJ&hl=en). I'm interested in future postdoctoral opportunities and any collaborations you may have in mind. Cheers!
 
-##Address:\n
+## Address
 Room 136A, Department of Ecology, Evolution, and Natural Resources\
 Rutgers, The State University of New Jersey, 14 College Farm Road,\
 New Brunswick, NJ 08901, USA\
