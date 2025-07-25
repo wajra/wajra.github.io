@@ -264,9 +264,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Bandara]
-  first_name: [RMWJ]
-  last_name: [Bandara]
-  first_name: [Rathnayaka Mudiyanselage Wajra Jeewantha]
+  first_name: [RMWJ, Rathnayaka Mudiyanselage Wajra Jeewantha, R.M.W.J.]
 
   style: apa
   locale: en
