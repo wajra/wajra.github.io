@@ -27,11 +27,11 @@ latest_posts:
 
 Hi. My name is Jeewantha Bandara (If you want the full monty, it's _Rathnayaka Mudiyanselage Wajra Jeewantha Bandara_. Quite a handful, I must say). I'm currently a 4th year PhD candidate at Rutgers University. My research interests are in marine biogeography and fisheries management under the larger topic of climate change. I'm supervised by [John Wiedenmann](https://deenr.rutgers.edu/personnel/faculty/john-wiedenmann) and [Malin Pinsky](https://globalchange.sites.ucsc.edu/people/malin-pinsky/).
 
-I'm originally from Sri Lanka and completed my undergraduate degree in Zoology at the University of Colombo. I worked in sustainable fisheries in my homeland for three years where I was a part of a team that helped establish the first [certified sustainable blue crab fishery](https://www.seafoodwatch.org/globalassets/sfw-data-blocks/reports/c/seafood-watch-blue-swimming-crab-sri-lanka-28177.pdf) in South Asia. I then came to the United States for my graduate studies under a [Fulbright Scholarship](https://fulbrightsrilanka.org/).
+I'm originally from Sri Lanka and completed my undergraduate degree in Zoology at the University of Colombo. I worked in sustainable fisheries in my homeland for three years where I was a part of a team that helped establish the [first certified sustainable crab fishery](https://www.seafoodwatch.org/globalassets/sfw-data-blocks/reports/c/seafood-watch-blue-swimming-crab-sri-lanka-28177.pdf) in South Asia. I then came to the United States for my graduate studies under a [Fulbright Scholarship](https://fulbrightsrilanka.org/).
 
 My interests outside of academia include reading about ancient history, diving into 70s and 80s cinema, and going on hikes with my wife and son. I also find any excuse to overcomplicate the art of making coffee by getting into shenanigans with different brewing methods.
 
-You can check out my publications on [Google Scholar](https://scholar.google.com/citations?user=c-SwfQYAAAAJ&hl=en). I'm interested in future postdoctoral opportunities and any collaborations you may have in mind. Cheers!
+You can check out my publications on [Google Scholar](https://scholar.google.com/citations?user=c-SwfQYAAAAJ&hl=en). **I'm interested in future postdoctoral opportunities or any collaboration you may have in mind.** Cheers!
 
 
 ## Address
