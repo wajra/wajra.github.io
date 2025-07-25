@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: A look into my research and academic career
+subtitle: A look at me and my academic work
 
 profile:
   align: right
@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-# Bio
+## Bio
 
 Hi. My name is Jeewantha Bandara (If you want the full monty, it's _Rathnayaka Mudiyanselage Wajra Jeewantha Bandara_. Quite a handful, I must say). I'm currently a 4th year PhD candidate at Rutgers University. My research interests are in marine biogeography and fisheries management under the larger topic of climate change. I'm supervised by [John Wiedenmann](https://deenr.rutgers.edu/personnel/faculty/john-wiedenmann) and [Malin Pinsky](https://globalchange.sites.ucsc.edu/people/malin-pinsky/).
 
@@ -33,8 +33,11 @@ My interests outside of academia include reading about ancient history, diving i
 
 You can check out my publications on [Google Scholar](https://scholar.google.com/citations?user=c-SwfQYAAAAJ&hl=en). I'm interested in future postdoctoral opportunities and any collaborations you may have in mind. Cheers!
 
+
 ## Address
 Room 136A, Department of Ecology, Evolution, and Natural Resources\
 Rutgers, The State University of New Jersey, 14 College Farm Road,\
 New Brunswick, NJ 08901, USA\
 jeewantha(dot)bandara(at)rutgers(dot)edu
+
+---
