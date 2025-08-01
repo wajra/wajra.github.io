@@ -37,7 +37,7 @@
       "position": "Teaching Assistant",
       "url": "https://wajra.github.io",
       "startDate": "2024-08-01",
-      "endDate": "Current",
+      "endDate": "2026-05-30",
       "summary": "Taught several undergraduate courses in the fall and spring semesters",
       "highlights": ["Invertebrate Zoology, Vertebrate Zoology, Principles of Natural Resource Management"]
     },
@@ -80,7 +80,7 @@
       "area": "Ecology",
       "studyType": "MS & PhD (MS completed in 2021)",
       "startDate": "2019-08-01",
-      "endDate": "Current",
+      "endDate": "2026-05-30",
       "score": "3.99 (4.0 GPA scale)"
     },
     {
@@ -103,13 +103,13 @@
       "summary": "Awarded full funding to conduct graduate studies and research in the United States"
     }
   ],
-  "publications": [
+  "selected publications": [
     {
       "name": "The importance of oxygen for explaining rapid shifts in a marine fish",
       "publisher": "Global Change Biology",
       "releaseDate": "2023-12-08",
       "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.17008",
-      "summary": "Can the biogeography of a marine fish that's rapidly moving into colder waters be explained by a physiological interaction between temperature and oxygen?"
+      "summary": "Does the physiological interaction between oxygen and temperature define the distribution of a fast moving commercially important fish?"
     },
     {
       "name": "Mechanisms, detections, and impacts of species redistributions under climate change",
@@ -131,15 +131,23 @@
       ]
     },
     {
-      "name": "Programming, Statistical modeling and data science",
+      "name": "Statistical Modeling & Data Science",
       "level": "",
-      "icon": "fa-solid fa-computer",
+      "icon": "fa-solid fa-hexagon-nodes-bolts",
       "keywords": [
         "Frequentist statistical analysis",
         "Bayesian statistical analysis",
         "Data analysis and visualization",
-        "Data management/harmonizing/pipelines",
-        "R, Python, SQL, LATEX"
+        "Data management/harmonizing/pipelines"
+      ]
+    },
+    {
+      "name": "Programming & Computing",
+      "level": "",
+      "icon": "fa-solid fa-computer",
+      "keywords": [
+        "R, Python, SQL, Latex",
+        "High Performance Computing (HPC)"
       ]
     }
   ],
