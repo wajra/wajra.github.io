@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "A concise CV is shown on this page. You can download a more comprehensive CV as a PDF file.",
+          description: "A concise CV is shown on this page. You can download a more comprehensive CV as a [PDF file](https://wajra.github.io/assets/pdf/JEEWANTHA_BANDARA_CV_PDF_2025_08_01.pdf).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
