@@ -64,7 +64,7 @@
     {
       "organization": "EcoGSA",
       "location": "Rutgers University, New Brunswick, NJ, USA",
-      "position": "GREENS Representative, Committee Member, Outreach organizer",
+      "position": "GREENS Representative",
       "url": "https://example.com",
       "startDate": "2023-06-01",
       "endDate": "2024-10-31",
@@ -81,8 +81,7 @@
       "studyType": "MS & PhD (MS completed in 2021)",
       "startDate": "2019-08-01",
       "endDate": "Current",
-      "score": "3.99 (4.0 GPA scale)",
-      "courses": [""]
+      "score": "3.99 (4.0 GPA scale)"
     },
     {
       "institution": "University of Colombo",
@@ -92,8 +91,7 @@
       "studyType": "BSc.",
       "startDate": "2013-01-30",
       "endDate": "2017-01-30",
-      "score": "3.21 (4.0 GPA scale)",
-      "courses": ["Vertebrate Zoology, Invertebrate Zoology, Fisheries, Natural Resource Conservation, Immunology, Molecular Biology"]
+      "score": "3.21 (4.0 GPA scale)"
     }
   ],
   "awards": [
@@ -102,7 +100,7 @@
       "date": "2019-08-01",
       "awarder": "Fulbright Sri Lanka",
       "url": "https://fulbrightsrilanka.org/scholarships/awards-to-sri-lanka/",
-      "summary": ""
+      "summary": "Awarded full funding to conduct graduate studies and research in the United States"
     }
   ],
   "publications": [
@@ -112,6 +110,13 @@
       "releaseDate": "2023-12-08",
       "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.17008",
       "summary": "Can the biogeography of a marine fish that's rapidly moving into colder waters be explained by a physiological interaction between temperature and oxygen?"
+    },
+    {
+      "name": "Mechanisms, detections, and impacts of species redistributions under climate change",
+      "publisher": "Nature Reviews Earth & Environment",
+      "releaseDate": "2024-04-01",
+      "url": "https://www.nature.com/articles/s43017-024-00527-z",
+      "summary": "A systematic review of our understanding of species range shifts"
     }
   ],
   "skills": [
