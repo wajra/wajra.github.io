@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "A concise CV is shown on this page. You can download a more comprehensive CV as a [PDF file](https://wajra.github.io/assets/pdf/JEEWANTHA_BANDARA_CV_PDF_2025_08_01.pdf).",
+          description: "A concise CV is shown on this page. You can download a more comprehensive CV as a PDF file",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
