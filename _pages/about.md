@@ -31,7 +31,7 @@ I'm originally from Sri Lanka and completed my undergraduate degree in Zoology a
 
 My interests outside of academia include reading about ancient history, diving into 70s and 80s cinema, and going on hikes with my wife and son. I also find any excuse to overcomplicate the art of making coffee by getting into shenanigans with different brewing methods.
 
-You can check out my publications on [Google Scholar](https://scholar.google.com/citations?user=c-SwfQYAAAAJ&hl=en). **I'm interested in future postdoctoral opportunities or any collaboration you may have in mind.** Cheers!
+You can check out my publications on [Google Scholar](https://scholar.google.com/citations?user=c-SwfQYAAAAJ&hl=en) and code on [Github](https://github.com/wajra). **I'm interested in future postdoctoral opportunities or any collaboration you may have in mind.** Cheers!
 
 
 ## Address
