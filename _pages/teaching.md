@@ -11,24 +11,24 @@ pretty_table: true
 > "To teach is to learn twice." \
 > — Joseph Joubert
 
-# Courses + Teaching
+# Teaching Experience
 
 I consider teaching to be a vital part in the development of a scientist. I have had the privilege of teaching undergraduate courses to students in two countries in multiple languages. A table of the courses I've taught or assisted in teaching is shown below in descending order by year.
 
-| Course name                              	    | Course Code 	| Year 	| Semester 	| University/Institute  | Language 	|
-|-------------------------------------------	|-------------	|------	|----------	|--------------------	|----------	|
-| Principles of Natural Resource Management 	| 11:216:217  	| 2025 	| Fall     	| Rutgers University 	| English  	|
-| Vertebrate Zoology                        	| 11:216:325   	| 2025 	| Spring 	| Rutgers University 	| English  	|
-| Invertebrate Zoology                        	| 11:216:324   	| 2024 	| Fall  	| Rutgers University 	| English  	|
-| Wildlife Management                       	| -   	        | 2017 	| -  	    | University of Colombo | English  	|
-| Fundamentals of Conservation Biology & Wildlife| -   	        | 2017 	| -  	    | University of Colombo | English  	|
-| Principles of Ecology                        	| -   	        | 2017 	| -  	    | University of Colombo | English  	|
-| Fish Biology & Fisheries                      | -   	        | 2017 	| -  	    | University of Colombo | English  	|
-| Animal Form & Function                        | -   	        | 2017 	| -  	    | University of Colombo | English  	|
-| Animal Behavior                               | -   	        | 2017 	| -  	    | University of Colombo | English  	|
-| Evolution & Biogeography                      | -   	        | 2017 	| -  	    | University of Colombo | English  	|
-| Introduction to Environmental Science         | -   	        | 2017 	| -  	    | University of Colombo | English  	|
-| Variety of Animal Life                        | -   	        | 2017 	| -  	    | University of Colombo | English  	|
+| Course name                              	    | Course Code 	| Year 	| Semester 	| University/Institute  | Language 	        |
+|-------------------------------------------	|-------------	|------	|----------	|--------------------	|-----------------	|
+| Principles of Natural Resource Management 	| 11:216:217  	| 2025 	| Fall     	| Rutgers University 	| English  	        |
+| Vertebrate Zoology                        	| 11:216:325   	| 2025 	| Spring 	| Rutgers University 	| English  	        |
+| Invertebrate Zoology                        	| 11:216:324   	| 2024 	| Fall  	| Rutgers University 	| English  	        |
+| Wildlife Management                       	| -   	        | 2017 	| -  	    | University of Colombo | English  	        |
+| Fundamentals of Conservation Biology & Wildlife| -   	        | 2017 	| -  	    | University of Colombo | English  	        |
+| Principles of Ecology                        	| -   	        | 2017 	| -  	    | University of Colombo | English  	        |
+| Fish Biology & Fisheries                      | -   	        | 2017 	| -  	    | University of Colombo | English  	        |
+| Animal Form & Function                        | -   	        | 2017 	| -  	    | University of Colombo | English  	        |
+| Animal Behavior                               | -   	        | 2017 	| -  	    | University of Colombo | Sinhala/English  	|
+| Evolution & Biogeography                      | -   	        | 2017 	| -  	    | University of Colombo | Sinhala/English  	|
+| Introduction to Environmental Science         | -   	        | 2017 	| -  	    | University of Colombo | Sinhala/English  	|
+| Variety of Animal Life                        | -   	        | 2017 	| -  	    | University of Colombo | Sinhala/English  	|
 
 \
 Temporary teaching assignments at the University of Colombo included 'Entomology', 'Comparative Anatomy', and 'Parasitory'. All of these were Level IV (Year 4) courses. 
