@@ -8,6 +8,9 @@ nav_order: 5
 pretty_table: true
 ---
 
+> "To teach is to learn twice." \
+> — Joseph Joubert
+
 # Courses + Teaching
 
 I consider teaching to be a vital part in the development of a scientist. I have had the privilege of teaching undergraduate courses to students in two countries in multiple languages. A table of the courses I've taught or assisted in teaching is shown below in descending order by year.
@@ -27,6 +30,7 @@ I consider teaching to be a vital part in the development of a scientist. I have
 | Introduction to Environmental Science         | -   	        | 2017 	| -  	    | University of Colombo | English  	|
 | Variety of Animal Life                        | -   	        | 2017 	| -  	    | University of Colombo | English  	|
 
+\
 Temporary teaching assignments at the University of Colombo included 'Entomology', 'Comparative Anatomy', and 'Parasitory'. All of these were Level IV (Year 4) courses. 
 
 # Workshops
