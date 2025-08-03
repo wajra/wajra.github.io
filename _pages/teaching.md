@@ -5,9 +5,10 @@ title: Teaching
 description: Courses, Workshops, and Mentorship
 nav: true
 nav_order: 5
+pretty_table: true
 ---
 
-# Teaching
+# Courses + Teaching
 
 I consider teaching to be a vital part in the development of a scientist. I have had the privilege of teaching undergraduate courses to students in two countries in multiple languages. A table of the courses I've taught or assisted in teaching is shown below in descending order by year.
 
