@@ -29,7 +29,7 @@
       "url": "https://wajra.github.io",
       "startDate": "2021-08-01",
       "endDate": "2024-07-30",
-      "summary": "Performed GA duties relevant to my thesis",
+      "summary": "Conducted research as a GA",
       "highlights": ["Dynamic Range Models, Harvest Control Rules for Fisheries Management, Marine Species Range Shifts"]
     },
     {
@@ -68,7 +68,7 @@
       "url": "https://rutgersecoevogsa.weebly.com/",
       "startDate": "2023-06-01",
       "endDate": "2024-10-31",
-      "summary": "Connected different graduate student organizations between campuses, helped organized fundraising activities",
+      "summary": "Connected different graduate student organizations between campuses, helped organize fundraising activities",
       "highlights": ["Annual Rutgers day book sales & GREENS events"]
     }
   ],
@@ -122,7 +122,7 @@
   "skills": [
     {
       "name": "Ecology/Fisheries/Zoology",
-      "level": "",
+      "level": "Proficient",
       "icon": "fa-solid fa-globe",
       "keywords": [
         "Field research/Sampling techniques",
@@ -132,7 +132,7 @@
     },
     {
       "name": "Statistical Modeling & Data Science",
-      "level": "",
+      "level": "Proficient",
       "icon": "fa-solid fa-hexagon-nodes-bolt",
       "keywords": [
         "Frequentist statistical analysis",
@@ -143,10 +143,10 @@
     },
     {
       "name": "Programming & Computing",
-      "level": "",
+      "level": "Proficient",
       "icon": "fa-solid fa-computer",
       "keywords": [
-        "R, Python, SQL, Latex",
+        "R, Python, SQL, LATEX, Bash, AWK",
         "High Performance Computing (HPC)"
       ]
     }
