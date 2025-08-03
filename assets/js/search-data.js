@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "Publications",
-          description: "Publications arranged latest to oldest",
+          description: "Publications arranged latest to oldest (Only includes peer-reviewed manuscripts in press. A complete bibliography can be found in my CV or Google Scholar)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
