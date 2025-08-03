@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: A look at me and my academic work
+subtitle: Global Biogeography. Fisheries. Data
 
 profile:
   align: right
