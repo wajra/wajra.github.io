@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Using Data to Gain Insights Into Global Biogeography and Fisheries Management
+subtitle: Global Biogeography | Fisheries Management | Insights from Data
 
 profile:
   align: right
