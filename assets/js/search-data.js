@@ -72,7 +72,7 @@ ninja.data = [{
           title: 'Towards better species distribution models',
           description: "Incorporating biological realism in to how we model species distributions",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/project_01_sdm/";
             },},{
         id: 'social-email',
         title: 'email',
