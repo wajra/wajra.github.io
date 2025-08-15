@@ -21,10 +21,11 @@ As mentioned in the previous section, the major issue with correlative species d
 Process-based models attempt to link demographic rates to the environment using a hypothetical or experimentally observed formula. Then these demographic rates inform how the species inhabits a landscape.
 This is a powerful framework that can theoretically result in versatile predictions even going beyond the current environmental stress that a species might be facing since we have approximated a biological realism in to how the species might respond to changes in this stress. However, the major caveat with these modeling frameworks have always been the significant amount of data and computing power required to run them. But with the invent of long-term data collecting efforts and exponential increases in computing power, they are now a reality and used to inform species models in different capacities. 
 **Dynamic Range Models (DRM)** are a class of process-based models that use a hierarchical bayesian framework to describe species distributions.
-My specific project is to build a DRM for black sea bass (_Centropristis striata_) in the Northeast US. While this project is a natural extension of our work published in 2024, the specific goals is to find the links between demographic processes such as recruitment, dispersal, and mortality of black sea bass. We then hope to apply these findings to a separate project with the hopes of identifying climate resilient management strategies for black sea bass in the NEUS. 
+My specific project is to build a DRM for black sea bass (_Centropristis striata_) in the Northeast US. While this project is a natural extension of our work published in 2024<sup>[2]</sup>, the specific goals is to find the links between demographic processes such as recruitment, dispersal, and mortality of black sea bass. We then hope to apply these findings to a separate project with the hopes of identifying climate resilient management strategies for black sea bass in the NEUS. 
 
 
 ## References
 
 [1] Deutsch, C., Ferrel, A., Seibel, B., Pörtner, H., & Huey, R. B. (2015). Climate change tightens a metabolic constraint on marine habitats. _Science_, 348(6239), 1132–1135. https://doi.org/10.1126/science.aaa1605
 
+[2] Bandara, R. M. W. J., Curchitser, E., & Pinsky, M. L. (2023). The importance of oxygen for explaining rapid shifts in a marine fish. _Global Change Biology_, 30(1). https://doi.org/10.1111/gcb.17008
