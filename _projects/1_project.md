@@ -1,90 +1,30 @@
 ---
 layout: page
-title: On the road to better species distribution models
-description: with background image
-img: assets/img/12.jpg
+title: Towards better species distribution models
+description: Incorporating biological realism in to how we model species distributions
+img: 
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
-## Incorporating physiology to species distribution models [work] or Towards process-based species distribution models [work] - This will include both 
-
-*Cover image to be used from the one on GCB*
-
-A core part of my research has focused on how to better incorporate biological realism to species distribution models (SDMs). I have done this via two approaches which I will describe below.
+A core part of my research has focused on how to better incorporate biological realism to species distribution models (SDMs). I do this via two approaches which I will describe below.
 
 ### Incorporating measures of physiological fitness into correlative species distribution models
 
-Correlative species distribution models have long used environmental temperature as the primary determinant of species habitat or niche. However, in the case of many species, temperature doesn't act in a vacuum. Physiological theory has shown evidence for how temperature in symphony with dissolved oxygen can define available habitat for marine species. This is commonly referred to as temperature-induced hypoxia and is measured by metabolic index (_Reference here for Deutsche et al. 2018_). While this single measure gives valuable insights into habitat availability for species, it requires species-specific parameters of hypoxia which are normally derived using laboratory physiological experiments. This can be both time consuming and expensive. 
+Correlative species distribution models have long used environmental temperature as the primary determinant of species habitat or niche. However, in the case of many species, temperature doesn't act in a vacuum. Physiological theory has shown evidence for how temperature in symphony with dissolved oxygen can define available habitat for marine species. This is commonly referred to as temperature-induced hypoxia and is measured by metabolic index<sup>[1]</sup>. While this single measure gives valuable insights into habitat availability for species, it requires species-specific parameters of hypoxia which are normally derived using laboratory physiological experiments. This can be both time consuming and expensive. 
 In Bandara et al. (2024), we demonstrated that the inclusion of a statistical interaction between temperature and dissolved oxygen can at times match or even exceed the performance of metabolic index under certain circumstances. Another outcome of our work was showing that the utility of metabolic index might be as a baseline indicator of suitable habitat and that once this baseline is surpassed (for example, at the cold range edge of a species), it's informativeness drops off. 
 
-### 
+### Improving how we model species distributions via process-based frameworks
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+As mentioned in the previous section, the major issue with correlative species distribution models is that they run into issues when one tries to utilize them beyond their original spatio-temporal capacities. It is because they link the environment directly to the biogeography of the species and not the processes that direct the biogeography itself. 
+Process-based models attempt to link demographic rates to the environment using a hypothetical or experimentally observed formula. Then these demographic rates inform how the species inhabits a landscape.
+This is a powerful framework that can theoretically result in versatile predictions even going beyond the current environmental stress that a species might be facing since we have approximated a biological realism in to how the species might respond to changes in this stress. However, the major caveat with these modeling frameworks have always been the significant amount of data and computing power required to run them. But with the invent of long-term data collecting efforts and exponential increases in computing power, they are now a reality and used to inform species models in different capacities. 
+**Dynamic Range Models (DRM)** are a class of process-based models that use a hierarchical bayesian framework to describe species distributions.
+My specific project is to build a DRM for black sea bass (_Centropristis striata_) in the Northeast US. While this project is a natural extension of our work published in 2024, the specific goals is to find the links between demographic processes such as recruitment, dispersal, and mortality of black sea bass. We then hope to apply these findings to a separate project with the hopes of identifying climate resilient management strategies for black sea bass in the NEUS. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+## References
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+[1] Deutsch, C., Ferrel, A., Seibel, B., Pörtner, H., & Huey, R. B. (2015). Climate change tightens a metabolic constraint on marine habitats. _Science_, 348(6239), 1132–1135. https://doi.org/10.1126/science.aaa1605
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
