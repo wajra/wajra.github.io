@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Global Biogeography | Fisheries Management | Data Insights
+subtitle: Global Biogeography | Fisheries Management | Ecological Data
 
 profile:
   align: right
