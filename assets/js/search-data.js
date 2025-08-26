@@ -73,6 +73,16 @@ ninja.data = [{
           description: "Incorporating biological realism in to how we model species distributions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project_01_sdm/";
+            },},{id: "projects-tools-for-climate-resilient-fisheries-management",
+          title: 'Tools for climate-resilient fisheries management',
+          description: "Extending capabilities of management strategy evaluation frameworks",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_02_mse/";
+            },},{id: "projects-marine-species-shifts-and-their-drivers",
+          title: 'Marine species shifts and their drivers',
+          description: "Standardizing methodology to estimate marine species range shifts at a global scale",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_03_fish/";
             },},{
         id: 'social-email',
         title: 'email',
