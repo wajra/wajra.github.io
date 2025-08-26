@@ -2,7 +2,7 @@
 layout: page
 title: Marine species shifts and their drivers
 description: Standardizing methodology to estimate marine species range shifts at a global scale
-img: 
+img: assets/img/project_03_banner_img_large.jpg
 importance: 3
 category: work
 giscus_comments: false
