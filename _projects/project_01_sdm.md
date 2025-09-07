@@ -2,7 +2,7 @@
 layout: page
 title: Towards better species distribution models
 description: Incorporating biological realism in to how we model species distributions
-img: assets/img/project_01_banner_img_large.jpg
+img: assets/img/project_01_banner_img_alt_large.jpg
 importance: 1
 category: work
 related_publications: false
