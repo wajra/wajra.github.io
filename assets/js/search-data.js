@@ -90,6 +90,11 @@ ninja.data = [{
           description: "Standardizing methodology to estimate marine species range shifts at a global scale",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project_03_fish/";
+            },},{id: "projects-tools-for-fisheries-data-collection",
+          title: 'Tools for fisheries data collection',
+          description: "Improving data collection workflows for high seas fisheries",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_04_photo/";
             },},{
         id: 'social-email',
         title: 'email',
