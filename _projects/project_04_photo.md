@@ -4,7 +4,7 @@ title: Tools for fisheries data collection
 description: Improving data collection workflows for high seas fisheries
 img: assets/img/project_04_banner_img_large.jpg
 importance: 4
-category: work
+category: fun
 giscus_comments: false
 related_publications: false
 ---
