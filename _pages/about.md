@@ -25,7 +25,7 @@ latest_posts:
 
 ## Bio
 
-Hi. My name is Jeewantha Bandara (If you want the full monty, it's _Rathnayaka Mudiyanselage Wajra Jeewantha Bandara_. Quite a handful, I must say). I'm currently a 4th year PhD candidate at Rutgers University. My research interests are in marine biogeography and fisheries ecology under the larger topic of climate change. I'm supervised by [John Wiedenmann](https://deenr.rutgers.edu/personnel/faculty/john-wiedenmann) and [Malin Pinsky](https://globalchange.sites.ucsc.edu/people/malin-pinsky/).
+Hi. My name is Jeewantha Bandara (If you want the full monty, it's _Rathnayaka Mudiyanselage Wajra Jeewantha Bandara_. Quite a handful, I must say). I'm currently a 4th year PhD candidate at Rutgers University. My research interests are in global biogeography and fisheries ecology under the larger topic of climate change. I'm supervised by [John Wiedenmann](https://deenr.rutgers.edu/personnel/faculty/john-wiedenmann) and [Malin Pinsky](https://globalchange.sites.ucsc.edu/people/malin-pinsky/).
 
 I'm originally from Sri Lanka and completed my undergraduate degree in Zoology at the University of Colombo. I worked in sustainable fisheries in my homeland for three years where I was a part of a team that helped establish the [first certified sustainable crab fishery](https://www.seafoodwatch.org/globalassets/sfw-data-blocks/reports/c/seafood-watch-blue-swimming-crab-sri-lanka-28177.pdf) in South Asia. I then came to the United States for my graduate studies under a [Fulbright Scholarship](https://fulbrightsrilanka.org/).
 
